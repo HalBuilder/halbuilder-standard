@@ -8,18 +8,17 @@
     <packaging>jar</packaging>
 
     <name>halbuilder-standard</name>
-    <description>Siren serializer/deserializer extension to the HalBuilder Library</description>
+    <description>Stadnard serializer/deserializer factory providing both HAL+XML and HAL+JSON to the HalBuilder Library</description>
     <url>http://gotohal.net</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jackson.version>2.0.5</jackson.version>
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:HalBuilder/halbuilder-siren.git</connection>
-        <developerConnection>scm:git:git@github.com:HalBuilder/halbuilder-siren.git</developerConnection>
-        <url>http://github.com/HalBuilder/halbuilder-siren</url>
+        <connection>scm:git:git@github.com:HalBuilder/halbuilder-standard.git</connection>
+        <developerConnection>scm:git:git@github.com:HalBuilder/halbuilder-standard.git</developerConnection>
+        <url>http://github.com/HalBuilder/halbuilder-standard</url>
         <tag>HEAD</tag>
     </scm>
 
